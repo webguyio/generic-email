@@ -6,4 +6,10 @@ Hack this template up how you like, starting with making it your own:
 
 Open in your favorite editor and begin replacing dummy content with your own.
 
+Add the specific unsubscribe merge tag for your email platform:
+
+Mailchimp: *|UNSUB|*
+Constant Contact: {unsubscribe}
+SendGrid/Campaign Monitor: [unsubscribe]
+
 Enjoy!
